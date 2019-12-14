@@ -21,7 +21,7 @@ system_check(){
 
 centos_install(){
 	yum -y install git
-	git clone https://https://github.com/hellosm12315/BBRv2.git
+	git clone https://github.com/hellosm12315/BBRv2.git
 	cd bbr2/centos
 	yum -y localinstall *
 	grub2-set-default 0
