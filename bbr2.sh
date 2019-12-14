@@ -3,8 +3,8 @@ clear
 echo
 echo "#################################################################"
 echo "# Google BBRv2 x86_64 Install"
-echo "# Author: Anne <QQ75960992>"
-echo "# Website: https://i98.me"
+echo "# Author: 七点的狗好看 <Email:hellosm12315@gmail.com>"
+echo "# Website: https://saobug.com"
 echo "# System Required: CentOS 7 or Debian 8/9 or Ubuntu 19.04 x86_64"
 echo "#################################################################"
 echo
